@@ -2,7 +2,7 @@ def parrot
   puts "Squawk!"
 end
 
-def parrot(sphrase == "Squawk!")
+def parrot(sphrase = "Squawk!")
   print phrase
 end
 
